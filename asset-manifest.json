@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/activeformapp/static/css/main.2a50a523.chunk.css",
+    "main.js": "/activeformapp/static/js/main.a2a5d2d4.chunk.js",
+    "main.js.map": "/activeformapp/static/js/main.a2a5d2d4.chunk.js.map",
+    "runtime-main.js": "/activeformapp/static/js/runtime-main.c98a1974.js",
+    "runtime-main.js.map": "/activeformapp/static/js/runtime-main.c98a1974.js.map",
+    "static/js/2.aeaf722f.chunk.js": "/activeformapp/static/js/2.aeaf722f.chunk.js",
+    "static/js/2.aeaf722f.chunk.js.map": "/activeformapp/static/js/2.aeaf722f.chunk.js.map",
+    "index.html": "/activeformapp/index.html",
+    "precache-manifest.4d5d3cff717d1b0b67969cecd8619480.js": "/activeformapp/precache-manifest.4d5d3cff717d1b0b67969cecd8619480.js",
+    "service-worker.js": "/activeformapp/service-worker.js",
+    "static/css/main.2a50a523.chunk.css.map": "/activeformapp/static/css/main.2a50a523.chunk.css.map",
+    "static/js/2.aeaf722f.chunk.js.LICENSE.txt": "/activeformapp/static/js/2.aeaf722f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/activeformapp/static/media/logo.a87d0f35.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c98a1974.js",
+    "static/js/2.aeaf722f.chunk.js",
+    "static/css/main.2a50a523.chunk.css",
+    "static/js/main.a2a5d2d4.chunk.js"
+  ]
+}
